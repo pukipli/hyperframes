@@ -1,0 +1,12 @@
+{
+  "singleQuote": false,
+  "semi": true,
+  "useTabs": false,
+  "tabWidth": 2,
+  "trailingComma": "all",
+  "printWidth": 100,
+  "ignorePatterns": [
+    "packages/share/src/sources/contract/path-policy.json",
+    "packages/share/tests/fixtures/compositionSync/manifest-vectors.json"
+  ]
+}
